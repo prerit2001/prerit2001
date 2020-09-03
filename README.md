@@ -1,4 +1,5 @@
 📩 &nbsp; ***Feel free to contact me. I am always here ...***
+<img align='right' alt="GIF" width="320px" height="200px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 <p align='centre'>
 <a href="https://www.linkedin.com/in/prerit-kumar-jha-5513a3134/">
   <img align="left" alt="Prerit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -31,6 +32,8 @@
 
 
 
+<br>
+<br>
 
 <h2 align='center'><samp><strong>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <a href="https://https://github.com/prerit2001" target="_blank">Prerit Kumar Jha🌐</a></strong></samp></h2>
 <p align='center'>Competitive Programmer | Full-stack Developer | Node/React Developer | Android Developer | ML/DL Enthusiast </p>
@@ -77,8 +80,7 @@ Hi, I'm [Prerit Kumar Jha](https://https://github.com/prerit2001), Competitive P
   
 <p style="display: flex; justify-contect: space-between;">
 <img style="border-radius: 5px;" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=prerit2001" />
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" />
 </p> 
 
 
