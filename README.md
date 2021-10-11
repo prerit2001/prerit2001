@@ -41,7 +41,7 @@
 <p align='center'>  As someone who is always passionate for learning more about tech and life. I am a unstopped learner.</p>
 
 
-Hi, I'm [Prerit Kumar Jha](https://github.com/prerit2001), Competitive Programmer and a Full Stack Developer 🚀 from India. Currently, I'm a Collaborating with my College Mates for Completion of big Project [ Virtual Interview Platform ](https://github.com/BTP-Project/Virtual-Interview). Beside's programming, I enjoy exploring and traveling.
+Hi, I'm [Prerit Kumar Jha](https://github.com/prerit2001), Competitive Programmer and a Full Stack Developer 🚀 from India. Currently. Beside's programming, I enjoy exploring and traveling.
 
 💬 **Knowledge of:** `Git`, `GitHub`, `VsCode`, `HTML5`, `CSS3`,  `Responsive web design`, `FontAwesome`, `Javascript`(ES6), `DOM`, `jQuery`, `Bootstrap`, `JSON`,
  `ReactJS`, `Redux`, `MySQL`,  `NodeJS`, `Jest`, `NPM`,`Object-Oriented Programming`, `data structures and algorithms`.
