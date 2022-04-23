@@ -23,7 +23,6 @@
 <br>
 
 [![Github](https://img.shields.io/github/followers/prerit2001?label=Follow&style=social)](https://github.com/prerit2001)
-[![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=prerit2001)](https://github.com/prerit2001)
 
 
 
