@@ -51,19 +51,18 @@ Hi, I'm [Prerit Kumar Jha](https://github.com/prerit2001), Competitive Programme
 💬 **Languages and Tools Icons**:
 <p style="display: flex; justify-contect: space-between;">
 <img style="margin-right: 20px" alt="Git" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
-<img style="margin-right: 20px" alt="GitHub" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/github-1.svg" />
+<img style="margin-right: 20px" alt="GitHub" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/github.svg" />
 <img style="margin-right: 20px" alt="Visual Studio Code" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
-<img style="margin-right: 20px" alt="HTML5" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/html5.svg" />
-<img style="margin-right: 20px" alt="CSS3" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/css-5.svg" />
+<img style="margin-right: 20px" alt="HTML5" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
+<img style="margin-right: 20px" alt="CSS3" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
 <img style="margin-right: 20px" alt="SASS" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" />
 <img style="margin-right: 20px" alt="FontAwesome" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" />
-<img style="margin-right: 20px" alt="JavaScript" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" />
+<img style="margin-right: 20px" alt="JavaScript" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" />
 <img style="margin-right: 20px" alt="JQuery" width="30px" height="30px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-512.png" />
 <img style="margin-right: 20px" alt="Bootstrap" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
 <img style="margin-right: 20px" alt="JSON" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/json.svg" />
 <img style="margin-right: 20px" alt="React.js" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img style="margin-right: 20px" alt="Redux" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
-<img style="margin-right: 20px" alt="MySQL" width="34px" height="30px" src="https://cdn.worldvectorlogo.com/logos/mysql-7.svg" />
 <img style="margin-right: 20px" alt="MongoDB" width="34px" height="30px" src="https://developer.asustor.com/uploadIcons/0020_999_1579584903_MongoDB_256.png" />
 <img style="margin-right: 20px" alt="NPM" width="30px" height="30px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/npm-logo.png" />
 <img style="margin-right: 20px" alt="SwaggerHub" width="30px" height="30px" src="https://miro.medium.com/max/720/0*ouOwqU23IiOAJf5v.jpg" />
