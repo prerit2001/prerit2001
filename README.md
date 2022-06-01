@@ -34,7 +34,7 @@
 <br>
 <br>
 
-<h2 align='center'><samp><strong>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <a href="https://github.com/prerit2001" target="_blank">Prerit Kumar Jha🌐</a></strong></samp></h2>
+<h2 align='center'><samp><strong>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I am <a href="https://github.com/prerit2001" target="_blank">Prerit Kumar Jha🌐</a></strong></samp></h2>
 <p align='center'>Competitive Programmer | Full-stack Developer | Node/React Developer | Android Developer | ML/DL Enthusiast </p>
 
 <p align='center'>  As someone who is always passionate for learning more about tech and life. I am a unstopped learner.</p>
